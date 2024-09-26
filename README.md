@@ -10,7 +10,7 @@ Esta entrega requiere código fuente dentro del repositorio generado y crear un 
 
 **Parte 1: Despliegue de la aplicación**
 
-El Despliegue la aplicación debe ser en elastic beanstalk y ser capaz a su vez de ejecutarse mediante docker-compose.
+El Despliegue debe ser capaz a su vez de ejecutarse mediante docker-compose. Opcionalmente puede optarse por elastic beanstalk
 
 **Parte 2: Optimización de Tiempos de Respuesta**
 
